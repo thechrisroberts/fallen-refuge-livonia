@@ -1,0 +1,171 @@
+{
+    "Name": "Toxic Gear",
+    "ContainerClassName": "hardigg2_Mung",
+    "Items": [
+        {
+            "ItemName": "TalonToxicJacket_gray",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TalonToxicPants_gray",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "GasMask_Filter",
+            "NumberOfStacks": 1,
+            "StackSize": 100
+        },
+        {
+            "ItemName": "GasMask_Filter",
+            "NumberOfStacks": 1,
+            "StackSize": 100
+        },
+        {
+            "ItemName": "MVS_S10Respirator_FS",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "nbcglovesgray",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "nbcbootsgray",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "nbchoodgray",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Battery9V",
+            "NumberOfStacks": 8,
+            "StackSize": 100
+        },
+        {
+            "ItemName": "A2M240",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "SWP_M14_EBR",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "SWP_EBR_MAG",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M240_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2Suppressor",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2Suppressor",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "NVGHeadstrap",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "NVGoggles",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "CombatKnife",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "M68Optic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "ACOGOptic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Holster_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Sheath_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Canteen_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 9999
+        },
+        {
+            "ItemName": "MVS_ChestRig_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Belt_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "FNX45",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Mag_FNX45_15Rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "PistolSuppressor",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "FNP45_MRDSOptic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Medical_Pouch_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Utility_Pouch_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Admin_Pouch_Multicam_Black",
+            "NumberOfStacks": 2,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Magazine_Pouch_Multicam_Black",
+            "NumberOfStacks": 2,
+            "StackSize": 1
+        }
+    ]
+}

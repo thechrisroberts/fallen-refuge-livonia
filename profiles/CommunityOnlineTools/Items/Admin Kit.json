@@ -1,0 +1,41 @@
+{
+    "Name": "Dapper Kit",
+    "ContainerClassName": "hardigg2_Mung",
+    "Items": [
+        {
+            "ItemName": "dappercane_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "SlacksPants_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "dapperhat_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "DressShoes_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "ManSuit_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "victorian_glasses_black_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "LeatherGloves_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        }
+    ]
+}

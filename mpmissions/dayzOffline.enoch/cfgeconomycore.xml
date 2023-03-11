@@ -35,4 +35,42 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
+
+    <ce folder="expansion_ce">
+		<file name="expansion_types.xml" type="types" />
+		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="expansion_events.xml" type="events" />
+	</ce>
+
+    <ce folder="fallen_refuge">
+        <file name="arma_types.xml" type="types" />
+        <file name="bbp_items_types.xml" type="types" />
+        <file name="bbp_types.xml" type="types" />
+        <file name="bmw_types.xml" type="types" />
+        <file name="cannabisplus_types.xml" type="types" />
+        <file name="cheytac_types.xml" type="types" />
+        <file name="codelock_types.xml" type="types" />
+        <file name="expansion_types.xml" type="types" />
+        <file name="lootchest_types.xml" type="types" />
+        <file name="morty_types.xml" type="types" />
+        <file name="msp_types.xml" type="types" />
+        <file name="mvs_types.xml" type="types" />
+        <file name="nehr_types.xml" type="types" />
+        <file name="psycho_types.xml" type="types" />
+		<file name="specialist_types.xml" type="types" />
+
+        <file name="arma_spawnabletypes.xml" type="spawnabletypes" />
+        <file name="bmw_spawnabletypes.xml" type="spawnabletypes" />
+        <file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
+        <file name="lootchest_spawnabletypes.xml" type="spawnabletypes" />
+        <file name="morty_spawnabletypes.xml" type="spawnabletypes" />
+        <file name="mvs_spawnabletypes.xml" type="spawnabletypes" />
+        <file name="nehr_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="specialist_spawnabletypes.xml" type="spawnabletypes" />
+        <file name="spawnabletypes.xml" type="spawnabletypes" />
+
+        <file name="bmw_events.xml" type="events" />
+        <file name="expansion_events.xml" type="events" />
+        <file name="nehr_events.xml" type="events" />
+    </ce>
 </economycore>
