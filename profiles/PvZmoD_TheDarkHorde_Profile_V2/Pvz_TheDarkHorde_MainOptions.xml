@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="Horde_Main_Options">
+        <Number_Of_Zombies		Day="20" 	Night="15"/>
+        <Horde_Movement_Type	Day="0" 	Night="6"/>
+        <!--  Movement Types list : -->
+        <!-- -1: 		Horde Disable  -->
+        <!--  0:		Spawn at random position then random movements -->
+        <!--  1:		Spawn in a custom zone then random moves in this zone (choose in CustomZones.xml) -->
+        <!--  2:		Follow Waypoints (set in Waypoints.xml) -->
+        <!--  3:		Fixed start and end coords (defined in "Horde_Movements_Options" section below) The horde will cycle on this two coords -->
+        <!--  4:		Fixed start then random moves (start coord defined in "Horde_Movements_Options" section below) -->
+        <!--  5:		Fixed destination then random moves (end   coord defined in "Horde_Movements_Options" section below) -->
+        <!--  6:		Hunting movement : the horde spawn at random position then go near the closest player position -->
+    </type>
+    
+    <type name="Horde_Movements_Options">
+        <Distance_Between_Random_Direction_Changes	Mini="500" 	Maxi="1000"/>
+        <Minimum_Of_Players_To_Activate_The_Hunt	Value="10"/>
+        <Maximum_Number_Of_Hunt_Per_Session			Value="3"/>
+        <Distance_To_Player_To_Stop_Hunting			Day="950"	Night="950"/>
+        <Start_Waypoint_Number	Value="1"/>
+        <Random_Waypoint_Order	Value="0"/>
+        <Start_Position			Value="3549/6278"/>
+        <End_Position			Value="4125/5650"/>
+    </type>
+    
+    <type name="Horde_Speed">
+        <Horde_Speed_When_Calm			Day="10.0" 	Night="10.0"/>
+        <Horde_Speed_When_Not_Calm		Day="40.0" 	Night="40.0"/>
+        <Horde_Speed_Ratio_When_No_Player_Around	Value="5.0"/>
+    </type>
+    
+    <type name="Horde_Other_Options">
+        <Time_Before_The_Horde_Respawn_After_Been_Defeated		Mini="300"	Maxi="600"/>
+        <Persistant_Position_When_Server_Restart				Value="0"/>
+        <Security_Distance_To_Avoid_Horde_Spawning_On_Players	Value="500"/>
+        <Activate_Bandit_And_Heroes_mod_Rewards					Value="0"/>
+        <Minimum_Player_Number_To_Activate_The_Horde			Day="0" 	Night="0"/>
+        <Maximum_Player_Number_To_Activate_The_Horde			Day="999" 	Night="999"/>
+    </type>
+    
+    <type name="NewFeatures">
+    </type>
+</types>
+
+
+
+

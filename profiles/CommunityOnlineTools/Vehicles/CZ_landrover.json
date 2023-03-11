@@ -1,0 +1,21 @@
+{
+    "VehicleName": "landrover",
+    "DisplayName": "",
+    "Parts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "LANDoors_Driver",
+        "LANDoors_CoDriver",
+        "LANDoors_Hood",
+        "LANCargo1Doors",
+        "LANCargo2Doors",
+        "lan_chest",
+        "lr_wheel",
+        "lr_wheel",
+        "lr_wheel",
+        "lr_wheel",
+        "lr_wheel",
+        "lr_wheel"
+    ]
+}

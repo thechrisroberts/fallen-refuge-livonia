@@ -1,0 +1,46 @@
+{
+    "Name": "Toxic",
+    "ContainerClassName": "TalonContainer",
+    "Items": [
+        {
+            "ItemName": "TalonToxicJacket_gray",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TalonToxicPants_gray",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "GasMask_Filter",
+            "NumberOfStacks": 1,
+            "StackSize": 100
+        },
+        {
+            "ItemName": "GasMask_Filter",
+            "NumberOfStacks": 1,
+            "StackSize": 100
+        },
+        {
+            "ItemName": "MVS_S10Respirator_FS",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "nbcglovesgray",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "nbcbootsgray",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "nbchoodgray",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        }
+    ]
+}

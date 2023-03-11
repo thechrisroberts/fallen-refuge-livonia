@@ -1,0 +1,22 @@
+{
+    "VehicleName": "gglaw_f150Psycho_green",
+    "DisplayName": "",
+    "Parts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "f150PsychoWheel_offroad",
+        "f150PsychoWheel_offroad",
+        "f150PsychoWheel_offroad",
+        "f150PsychoWheel_offroad",
+        "f150PsychoWheel_offroad",
+        "f150Psycho_driver_green",
+        "f150Psycho_codriver_green",
+        "f150Psycho_cargo1_green",
+        "f150Psycho_cargo2_green",
+        "f150Psycho_hood_green",
+        "f150Psycho_trunk_green"
+    ]
+}

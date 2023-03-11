@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type Zombie_Category_Class_Names="ZmbM_DH_Master_Day">
+        <Items_List_A Quantity_Or_Chance_To_Spawn = "5.0" state = "Pristine" List = "TacticalBaconCan,A2Suppressor,A2M240,A2M240_Magazine,TalonRucksack_Multicam_Black,A2AKSGOLD,BBP_Blueprint"/>
+        <Items_List_B Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_C Quantity_Or_Chance_To_Spawn = "0.0" state = "Random" List = ""/>
+        <Items_List_D Quantity_Or_Chance_To_Spawn = "0.0" state = "Random" List = ""/>
+    </type>
+
+    <type Zombie_Category_Class_Names="ZmbM_DH_Master_Night">
+        <Items_List_A Quantity_Or_Chance_To_Spawn = "5.0" state = "Pristine" List = "TacticalBaconCan,A2Suppressor,A2M240,A2M240_Magazine,TalonRucksack_Multicam_Black,A2AKSGOLD,BBP_Blueprint"/>
+        <Items_List_B Quantity_Or_Chance_To_Spawn = "1.0" state = "Pristine" List = "Blue_Key,Yellow_Key,Red_Key"/>
+        <Items_List_C Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_D Quantity_Or_Chance_To_Spawn = "0.0" state = "Random" List = ""/>
+    </type>
+
+    <type Zombie_Category_Class_Names="ZmbM_DH_Invisible_Ghillie">
+        <Items_List_A Quantity_Or_Chance_To_Spawn = "1.0" state = "Ruined" List = "GhillieSuit_Mossy,GhillieSuit_Woodland"/>
+        <Items_List_B Quantity_Or_Chance_To_Spawn = "0.0" state = "Random" List = ""/>
+        <Items_List_C Quantity_Or_Chance_To_Spawn = "0.0" state = "Random" List = ""/>
+        <Items_List_D Quantity_Or_Chance_To_Spawn = "0.0" state = "Random" List = ""/>
+    </type>
+
+    <type Zombie_Category_Class_Names="ZmbM_DH_Invisible_RedEye">
+        <Items_List_A Quantity_Or_Chance_To_Spawn = "1.0" state = "Ruined" List = "GhillieSuit_Mossy,GhillieSuit_Woodland"/>
+        <Items_List_B Quantity_Or_Chance_To_Spawn = "1.0" state = "BadlyDamaged" List = "Red_Eye"/>
+        <Items_List_C Quantity_Or_Chance_To_Spawn = "0.0" state = "Random" List = ""/>
+        <Items_List_D Quantity_Or_Chance_To_Spawn = "0.0" state = "Random" List = ""/>
+    </type>
+
+    <type Zombie_Category_Class_Names="Custom_Section01">
+        <Items_List_A Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_B Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_C Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_D Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+    </type>
+
+    <type Zombie_Category_Class_Names="Custom_Section02">
+        <Items_List_A Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_B Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_C Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_D Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+    </type>
+
+    <type Zombie_Category_Class_Names="Custom_Section03">
+        <Items_List_A Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_B Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_C Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_D Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+    </type>
+
+    <type Zombie_Category_Class_Names="Custom_Section04">
+        <Items_List_A Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_B Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_C Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_D Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+    </type>
+
+    <type Zombie_Category_Class_Names="Custom_Section05">
+        <Items_List_A Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_B Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_C Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_D Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+    </type>
+
+    <type Zombie_Category_Class_Names="Custom_Section06">
+        <Items_List_A Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_B Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_C Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_D Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+    </type>
+
+    <type Zombie_Category_Class_Names="Custom_Section07">
+        <Items_List_A Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_B Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_C Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+        <Items_List_D Quantity_Or_Chance_To_Spawn = "0.0" state = "Pristine" List = ""/>
+    </type>
+</types>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="Global_Safe_Zones_Options">
+		<Global_Activation Value = "0" />
+        <Teleport_Distance_When_Entering_Safe_Zone Value = "1000"/>
+        <Security_Distance_To_Players Value = "500"/>
+        <Also_Count_Players_In_Safe_Zone_To_Trigger_Hunting_Mod Value = "false"/>
+        <Hunting_Mod_Can_Focus_On_Players_In_Safe_Zone Value = "false"/>
+        <Safe_Zone_Timer Value = "5.0"/>
+	</type>
+	
+	<type name="Jankov_Underground_And_Toxic">
+		<Activated Value = "1" />					
+        <Corner_UpperLeft Coordinates = "13450/3975"/>		
+        <Corner_LowerRight Coordinates = "14500/3400"/>  	      
+	</type>	
+	
+	<type name="Eye_Underground">
+		<Activated Value = "1" />					
+        <Corner_UpperLeft Coordinates = "7950/1390"/>		
+        <Corner_LowerRight Coordinates = "8415/680"/>  	      
+	</type>	
+	
+	<type name="Overgrown">
+		<Activated Value = "1" />					
+        <Corner_UpperLeft Coordinates = "7385/10360"/>		
+        <Corner_LowerRight Coordinates = "8575/8940"/>  	      
+	</type>	
+	
+	<type name="Tisovik_Underground">
+		<Activated Value = "1" />					
+        <Corner_UpperLeft Coordinates = "11050/15260"/>		
+        <Corner_LowerRight Coordinates = "11600/14810"/>  	      
+	</type>
+</types>

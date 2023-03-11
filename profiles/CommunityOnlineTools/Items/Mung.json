@@ -1,0 +1,511 @@
+{
+    "Name": "Mungherd",
+    "ContainerClassName": "TalonContainer",
+    "Items": [
+        {
+            "ItemName": "ballgrill_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "bandana_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "bearfurcowl_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "bearhead_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "bikervest_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "bowieknife_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "castironpan_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "cigar_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "cigarette_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Clawhammer_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "clownmask_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "cricket_bat_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "csmcmillan_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Decoygrenade_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "diana_m27_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "dollmask_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "dutchoven_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "dynamitestick_Mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Gewehr43_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "guitar_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "gunwall_kit_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "gunwall_metal_kit_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "gunwalldisplay_metal_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "gunwalldisplay_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "hannibal_mask_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "hardigg2_Mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "hardigg_Mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "izh54_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "izh54_sawnoff_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "jaakari_black_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "jaakari_brown_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "jaakari_camo_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "jaakari_simple_black_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "jaakari_simple_brown_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "jaakari_simple_camo_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "jaakari_simple_tan_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "jaakari_tan_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "jesterhat_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "joint_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "katana_Mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "ketchup_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "kv5_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "lebedev_PL15_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Leupold_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "m52helmet_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "mag3_gasmask_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Mag_cs5_10Rnd_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Mag_gewehr43_10Rnd_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Mag_lebedev_PL15_16Rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "maglite_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "makeshifttent2_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "makeshifttent_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "mcmillan_buttstock",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "meleesling_black_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Nagant1895_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "nbc_longcoat_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "oillamp_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "oxygentankrig_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "pickles_closed",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "playerhead_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "poncho_camo_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "rifleholster_black_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "rifleholster_camo_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "rifleholster_camo_ucp_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "rifleholster_leatherengraved_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "rifleholster_snow_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "rifleholster_tan_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "rifleholster_TTsKO_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "riflesling_black_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "RollingPapers_Jest",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "SAK_Mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "sandwich_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Scythe_Mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "shawl_black_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "shawl_floral_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "shawl_palestini_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "shawl_red_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "shawl_templar_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "shawl_yellow_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "sherlockpipe_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "shovel_Mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "sleepingbag_blue_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "sleepingbag_green_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "sleepingbag_red_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "sleepingbag_yellow_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "stalker_gasmask_black_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "stalker_gasmask_white_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "stielhandgranate_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "strawhat_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "sushiknife_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "tacvest_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "teddyhead_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "thermos_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Vesuri_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "vinegar_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "wolffurcowl_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "wonderbread_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "WoodAxe_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "woodenhammer_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "zenitco_pt3_buttstock_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Zippo_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        }
+    ]
+}

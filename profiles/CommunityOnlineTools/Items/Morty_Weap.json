@@ -1,0 +1,1626 @@
+{
+    "Name": "Morty Weap",
+    "ContainerClassName": "TalonContainer",
+    "Items": [
+        {
+            "ItemName": "TTC_KAC",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MAS36",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Winchester1873",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_kar98k",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_R700",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTCSR25",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTCSR25_Desert",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTCSR25_Snow",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTCSR25_OD",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_HK416Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_HK416OD",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_HK416Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_SG552",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_SG552_Wood",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_SG552_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_SG550",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_SG550_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_SG550_Pink",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Mag_SG_30Rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M16",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AEK973",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Universal_Suppressor_BLACK",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Universal_Suppressor_CAMO",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Buttstock",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Ammo_8mm",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AmmoBox_8mm_20Rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Buttstock2",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Buttstock3",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M4DMR",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M4DMROD",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M4DMRDesert",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_Hndguard",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_HndguardOD",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_HndguardDesert",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_308Stanag",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_FD338",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_338mag_10rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AmmoBox_338mm_10Rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Ammo_338",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AACHoney",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AACHoney_B",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AACHoney_300blk",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AACHoney_300blk_B",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_300Stanag",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_300Cmag",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AmmoBox_300blk_20rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Ammo_300blk",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Buttstock_Honey",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Honey_Suppressor",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M24",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M24_Bjorn",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M24_Woodland",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M24_WoodlandOld",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M24mag_5rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_SCARH",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_SCARHBlack",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_SCARHMag",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_SCARL",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_SCARLBlack",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_SCARLSnow",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M16A4",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Beowulf",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_50Beo_mag",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AmmoBox_50Beo_20rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Ammo_50Beo",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Universal_Suppressor_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Universal_Suppressor_Snow",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_ModDMR_556",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_ModDMRTan_556",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_ModDMRTwotone_556",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_ModDMRCamo_556",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_ModDMRDigiTan_556",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_ModDMRUPC_556",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_ModDMRSnow_556",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_ModDMR_762",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_ModDMRTan_762",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_ModDMRTwotone_762",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_ModDMRCamo_762",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_ModDMRDigiTan_762",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_ModDMRUPC_762",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_ModDMRSnow_762",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_Suppressor",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M82",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M82_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M82_5rnd_Mag",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Stanag_30rnd_Digitan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Stanag_30rnd_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Stanag_30rnd_UPC",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Stanag_100rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Stanag_100rnd_camo",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Stanag_100rnd_Digitan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Stanag_100rnd_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Stanag_100rnd_UPC",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Pmag_30rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Pmag_30rnd_camo",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Pmag_30rnd_Digitan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Pmag_30rnd_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Pmag_30rnd_UPC",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Pmag_40rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Pmag_40rnd_camo",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Pmag_40rnd_Digitan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Pmag_40rnd_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Pmag_40rnd_UPC",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Pmag_100rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Pmag_100rnd_camo",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Pmag_100rnd_Digitan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Pmag_100rnd_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_556Pmag_100rnd_UPC",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_762Stanag_20rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_762Stanag_20rnd_camo",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_762Stanag_20rnd_Digitan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_762Stanag_20rnd_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_762Stanag_20rnd_UPC",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_762Stanag_10rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_762Stanag_10rnd_camo",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_762Stanag_10rnd_Digitan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_762Stanag_10rnd_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_762Stanag_10rnd_UPC",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_Bipod",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_AFG",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_AFG_Green",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_AFG_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_VFG",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_VFG_Green",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_VFG_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Ammobox_50BMG_10rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Ammo_50BMG",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Buttstock_Camo",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Buttstock_Digitan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Buttstock_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Buttstock_UPC",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_RifleFrame",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_Barrel_762",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_Barrel_556",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_HKG28",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_ButtstockHK",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_LeeEnfield",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M1Garand",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M4Tac",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Buttstock_Morty",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M14",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M14_Mag_20rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MRAD",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_338mag_5rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_XM2010",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_XM2010_10rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AmmoBox_303_20Rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Ammo_303",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AmmoBox_3006_20Rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Ammo_3006",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AmmoBox_4570_20Rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Ammo_4570",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AK12",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AK12_Worn",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Buttstock_AK12",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AK12_Drum_90rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_G3",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_G3_Magazine_20rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_G3_Optic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_BugBuster",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M14_Camo",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M14_Snow",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Kimber",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Mag_Kimber1911_10Rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Mossberg",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_HK417",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_HK417_Magazine_20rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M14Suppressor",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Holo",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M9",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Mag_M9_15Rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Gold",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Snow",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Multi",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Digi",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKModPK",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKModPK_Gold",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKModPK_Snow",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKModPK_Multi",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKModPK_Digi",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKModPK_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M110",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M110_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Maverick",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_R700_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_RifleFrame",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Barrel_76239",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Barrel_76254",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_bttstk",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Gold_bttstk",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Snow_bttstk",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Multi_bttstk",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Digi_bttstk",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Tan_bttstk",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_762x54_30rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_762x54_65rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMOD_AFG",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Suppressor",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Hndguard",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Gold_Hndguard",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Snow_Hndguard",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Multi_Hndguard",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Digi_Hndguard",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKMod_Tan_Hndguard",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_HAMR",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AG3",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AG3_Coupled_Magazine_40rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_FAL",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_FAL_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Coupled_FAL_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_FAL_RIS_Hndgrd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_FAL_Wood_Hndgrd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_FAL_Poly_Hndgrd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_FAL_Wood_Bttstck",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Raptr",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Raptr_Drum_45rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M24_NEW_Wood",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M24_NEW_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M24_NEW_Camo",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M24_NEW_CamoW",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M24New_mag_5rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AVS36",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AVS36_Mag_10rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_CAR15",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M1903",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MCX",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MCX_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MPXMCX1_Bttstck",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MPXMCX1_Bttstck2",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MPXMCX2_Bttstck",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AKM",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Deagle",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Deagle_Magazine_7rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Ammo_50AE",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Glock17",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Mag_Glock_17Rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M9_Custom",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Mag_M9_Custom_20Rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MP5SD",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MPX",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MPX_Mag_60rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MPX_Mag_30rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MCX_300blk",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MCX_Tan_300blk",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_PP91",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_PP91_Mag_20rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_UZI",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_UZI_Mag_30rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_300Cmag_60rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M4Tac_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_SVT40",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Mag_SVT40_10rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_SVT40_Bayonet",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_SVT40_Optic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MP7A1",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MP7A1_Mag_40rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Ammo_4630",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AmmoBox_4630_20Rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Pistol_Light",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_PistolSuppressor",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Razor",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Buttstock_CAR15",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_G28_Optic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Aimpoint2000",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M4DMRSNOW",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_DMR_HndguardSnow",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_STG44",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_STG44_Magazine_30rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Ammo_792x33",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AmmoBox_792x33_20Rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_BAR",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_BAR_Magazine_20rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AWM",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AWM_Magazine_5rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_GEVAR43",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_GEVAR43_Green",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_GEVAR43_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_GEVAR43_silver",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_GEVAR43_Magazine_10rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_L85",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_TAVOR",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_TAVOR_DMR",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_TAVOR_Magazine_30rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_TAVOR_Magazine_60rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_VortexSE_Optic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_VortexRHDAMG_Optic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Elcan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AmmoBox_50AE",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_HK416Comp",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MCX_Spear",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MCX_Spear_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MCX_Spear_Magazine_20rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AmmoBox_277_20Rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Ammo_277",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MPXMCXSPEAR_Bttstck",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MCX_Spear_Suppressor",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MK18",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Universal_Suppressor_TAVOR",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Universal_Suppressor_TAVOR_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MK18_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_44Magnum",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_44Magnum_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_AmmoBox_44Mag",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Ammo_44Mag",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_P320",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_P320_17Rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Pistol_Optic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Mk47",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M1A_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M1A_Green",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M1A_Tan",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_M1A_Snow",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_VHS",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_MCX_Spear_Suppressor_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_EotechVudu_Optic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_EotechVudu_Tan_Optic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_EotechVudu_White_Optic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_EotechVudu_AK_Optic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_EotechVudu_Tan_AK_Optic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_EotechVudu_White_AK_Optic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_HAMR_AK",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TTC_Elcan_AK",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_FISHING",
+    "MinRequiredHumanity": -9999,
+    "MaxRequiredHumanity": 9999,
+    "TraderIcon": "Fishing",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Fishing"
+    ],
+    "Items": {
+        "carp": 1,
+        "mackerel": 1,
+        "sardines": 1
+    }
+}

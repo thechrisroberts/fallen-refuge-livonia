@@ -1,0 +1,30 @@
+Assault, 5.56x45, low/medium     - SWP_LVOA_C
+Assault, 5.56x45, medium         - SWP_ACR
+Assault, 5.56x45, medium         - SWP_M416
+Assault, 7.62x51, medium/high    - SWP_M417  (Morty variant is the preferred one)
+
+Pistol, 9x19, low                - SWP_Glock18
+Pistol, 9x19, low/medium         - SWP_Sig_P226
+
+Sniper, .308, medium             - SWP_AWM
+Sniper, .308, medium             - SWP_M700
+Sniper, 7.62x51, medium/high     - SWP_M14_EBR
+Sniper, 7.62x51, medium/high     - SWP_SASS
+
+Sub, 4.6x30, lowest              - SWP_HK_MP7
+Sub, 9x19, low                   - SWP_RO991
+Sub, 9x19, low/medium            - SWP_MPX
+Sub, 9x19, low/medium            - SWP_PP19
+
+Suppressor                       - SWP_NT4_556
+
+Mag                              - SWP_762P_Mag
+Mag                              - SWP_AWM_Mag
+Mag                              - SWP_EBR_MAG
+Mag                              - SWP_M700_Mag
+Mag                              - SWP_MP7_Mag
+Mag                              - SWP_MPX_Mag
+Mag                              - SWP_P226_Mag
+Mag                              - SWP_PP19_Mag
+Mag                              - SWP_RO991Mag
+Mag                              - SWP_762P_Mag

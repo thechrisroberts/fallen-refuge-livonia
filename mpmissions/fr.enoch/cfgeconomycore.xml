@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+    <classes>
+		<rootclass name="DefaultWeapon" />
+		<rootclass name="DefaultMagazine" />
+		<rootclass name="Inventory_Base" />
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" />
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" />
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" />
+		<rootclass name="CarScript" act="car" reportMemoryLOD="no" />
+	</classes>
+
+	<defaults>
+		<default name="dyn_radius" value="30" />
+		<default name="dyn_smin" value="0" />
+		<default name="dyn_smax" value="0" />
+		<default name="dyn_dmin" value="1" />
+		<default name="dyn_dmax" value="5" />
+		<default name="log_ce_loop" value="true"/>
+		<default name="log_ce_dynamicevent" value="true"/>
+		<default name="log_ce_vehicle" value="true"/>
+		<default name="log_ce_lootspawn" value="true"/>
+		<default name="log_ce_lootcleanup" value="true"/>
+		<default name="log_ce_lootrespawn" value="true"/>
+		<default name="log_ce_statistics" value="true"/>
+		<default name="log_ce_zombie" value="true"/>
+		<default name="log_ce_animal" value="true"/>
+		<default name="log_storageinfo" value="true"/>
+		<default name="log_hivewarning" value="true"/>
+		<default name="log_missionfilewarning" value="true"/>
+		<default name="save_events_startup" value="true"/>
+		<default name="save_types_startup" value="true"/>
+	</defaults>
+    
+	<ce folder="expansion_ce">
+		<file name="expansion_types.xml" type="types" />
+		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="expansion_events.xml" type="events" />
+	</ce>
+
+	<ce folder="fallen_refuge">
+		<file name="messages.xml" type="messages" />
+		<file name="globals.xml" type="globals" />
+		
+		<file name="types.xml" type="types" />
+		<file name="arma_types.xml" type="types" />
+		<file name="bbp_types.xml" type="types" />
+		<file name="cannabisplus_types.xml" type="types" />
+		<file name="codelock_types.xml" type="types" />
+		<file name="morty_types.xml" type="types" />
+		<file name="muchstuffpack_types.xml" type="types" />
+		<file name="cheytac_types.xml" type="types" />
+		<file name="mung_types.xml" type="types" />
+		<file name="mvs_types.xml" type="types" />
+		<file name="lada_types.xml" type="types" />
+		<file name="psycho_types.xml" type="types" />
+        <file name="lootchest_types.xml" type="types" />
+        <file name="dna_keycard_types.xml" type="types" />
+
+		<file name="fr_overrides.xml" type="types" />
+
+		<file name="morty_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="mvs_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="lada_spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+</economycore>

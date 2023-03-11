@@ -1,0 +1,163 @@
+{
+    "EnableDebug": 0,
+    "DeleteLogs": 0,
+    "MaxSpareMags": 3,
+    "RandomQuantity": 0,
+    "LootChestsLocations": [
+        {
+            "name": "LivoniaSet",
+            "number": 25,
+            "pos": [
+            ],
+            "keyclass": "CJ_Key1",
+            "openable": 2,
+            "chest": [
+                "CJ_LootChest_Brown_Large",
+                "CJ_LootChest_Green_Large",
+                "CJ_LootChest_Grey_Large",
+                "CJ_LootChest_Olive_Large",
+                "CJ_LootChest_Tan_Large",
+                "CJ_LootChest_Camo_Large",
+                "CJ_LootChest_Wood_Brown_Large",
+                "CJ_LootChest_Wood_Green_Large"
+            ],
+            "lootrandomize": 0.4,
+            "light": 1,
+            "loot": [
+                "LC_Table_Rifles",
+                "LC_Table_Rifles",
+                "LC_Table_Attachments",
+                "LC_predefined_M4",
+                "CombatKnife",
+                "CombatKnife",
+                "HandSaw",
+                "Hammer",
+                "BandageDressing",
+                "BandageDressing",
+                "TacticalBaconCan",
+                "TacticalBaconCan",
+                "TacticalBaconCan",
+                "Mich2001Helmet",
+                "NVGoggles",
+                "Mich2001Helmet",
+                "NVGoggles",
+                "ExpansionGoldBar",
+                "ExpansionGoldBar",
+                "ExpansionGoldBar",
+                "ExpansionGoldBar"
+            ]
+        },
+        {
+            "name": "LivoniaToxic",
+            "number": 25,
+            "pos": [
+            ],
+            "keyclass": "CJ_Key1",
+            "openable": 2,
+            "chest": [
+                "CJ_LootChest_Brown_Large",
+                "CJ_LootChest_Green_Large",
+                "CJ_LootChest_Grey_Large",
+                "CJ_LootChest_Olive_Large",
+                "CJ_LootChest_Tan_Large",
+                "CJ_LootChest_Camo_Large",
+                "CJ_LootChest_Wood_Brown_Large",
+                "CJ_LootChest_Wood_Green_Large"
+            ],
+            "lootrandomize": 0.4,
+            "light": 1,
+            "loot": [
+                "LC_Table_Rifles",
+                "LC_Table_Rifles",
+                "LC_Table_Attachments",
+                "LC_predefined_M4",
+                "CombatKnife",
+                "CombatKnife",
+                "HandSaw",
+                "Hammer",
+                "BandageDressing",
+                "BandageDressing",
+                "TacticalBaconCan",
+                "TacticalBaconCan",
+                "TacticalBaconCan",
+                "Mich2001Helmet",
+                "NVGoggles",
+                "Mich2001Helmet",
+                "NVGoggles",
+                "ExpansionGoldBar",
+                "ExpansionGoldBar",
+                "ExpansionGoldBar",
+                "ExpansionGoldBar"
+            ]
+        }
+    ],
+    "LCPredefinedWeapons": [
+        {
+            "defname": "LC_predefined_SVD",
+            "weapon": "SVD",
+            "magazine": "Mag_SVD_10Rnd",
+            "attachments": [
+                "AK_Suppressor"
+            ],
+            "optic": "PSO11Optic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_FNX",
+            "weapon": "FNX45",
+            "magazine": "Mag_FNX45_15Rnd",
+            "attachments": [
+                "PistolSuppressor"
+            ],
+            "optic": "fnp45_mrdsoptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_M4",
+            "weapon": "M4A1",
+            "magazine": "Mag_STANAG_30Rnd",
+            "attachments": [
+                "M4_Suppressor",
+                "M4_RISHndgrd_Black",
+                "M4_MPBttstck_Black"
+            ],
+            "optic": "ACOGOptic_6x",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_AK101",
+            "weapon": "AK101",
+            "magazine": "Mag_AK101_30Rnd",
+            "attachments": [
+                "AK_Suppressor",
+                "AK_PlasticHndgrd",
+                "AK_PlasticBttstck"
+            ],
+            "optic": "KobraOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_LAR",
+            "weapon": "FAL",
+            "magazine": "Mag_FAL_20Rnd",
+            "attachments": [
+                "Fal_OeBttstck",
+                "AK_Suppressor"
+            ],
+            "optic": "ACOGOptic",
+            "opticbattery": 1
+        }
+    ],
+    "LootCategories": [
+        {
+            "name": "LC_Table_Rifles",
+            "Loot": [
+                "LC_predefined_SVD",
+                "LC_predefined_LAR",
+                "LC_predefined_M4",
+                "LC_predefined_AK101",
+                "LC_predefined_LAR"
+            ]
+        }
+    ]
+}

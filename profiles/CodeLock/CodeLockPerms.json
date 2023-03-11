@@ -1,0 +1,10 @@
+[
+    {
+        "playerId": "01010100076561198025757664",
+        "playerPerms": {
+            "CanOpenLocks": "true",
+            "CanChangePasscodes": "true",
+            "CanRemoveLocks": "true"
+        }
+    }
+]

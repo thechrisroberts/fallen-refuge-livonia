@@ -1,0 +1,20 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS",
+    "MinRequiredHumanity": -9999,
+    "MaxRequiredHumanity": 9999,
+    "TraderIcon": "Gas",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Vehicle_Parts"
+    ],
+    "Items": {
+        "tirerepairkit": 1,
+        "canistergasoline": 1
+    }
+}

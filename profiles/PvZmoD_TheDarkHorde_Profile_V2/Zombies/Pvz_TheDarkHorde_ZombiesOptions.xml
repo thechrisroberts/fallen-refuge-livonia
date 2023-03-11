@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="Zombies_Health">
+        <Health_Points_Ratio_For_Zombies_From_The_Horde Day="1.0" Night="2.0"/>
+        <Health_Points_Ratio_For_Zombies_Outside_The_Horde Value="1.0"/>
+        
+        <Resistance_To_The_Cars_For_Zombies_From_The_Horde Value="10.0"/>
+        <Resistance_To_The_Cars_For_Zombies_Outside_The_Horde Value="1.0"/>
+    </type>
+    <type name="Zombies_Behaviours">
+        <Allow_Ghost_Zombies_To_Go_Through_Walls Value="1"/>
+        <Allow_Night_Zombies_To_Teleport Value="1"/>
+    </type>
+    
+    <type name="Master_Health">
+        <Health_Points_Ratio_For_The_Master Day="4.0" Night="8.0"/>
+        <Resistance_To_The_Cars_For_The_Master Value="1000.0"/>
+    </type>
+    <type name="Master_Behaviours">
+        <Master_Regeneration_Rate Day="0.3" Night="0.5"/>
+        <Master_Is_Bulletproof Day="0" Night="0"/>
+        <Master_Is_Immune_To_Explosions Day="1" Night="1"/>
+        <Master_Is_Teleport_When_Hit_By_MeleeWeapon Day="0" Night="1"/>
+        <Master_Is_Teleport_When_Hit_By_FireWeapon Day="0" Night="1"/>
+        <Master_Can_Dodge Day="1" Night="1"/>
+        <Master_Size_Ratio Day="1.25" Night="1.5"/>
+    </type>
+    
+    <type name="Zombies_Spawn_Options">
+        <Zombie_Spawn_Timer Day="1.5" Night="2.0"/>
+        <Zombie_Spawn_Shift Day="-3" Night="-5"/>
+        <Zombie_Spawn_Radius Value="3"/>
+        <Master_Spawn_Radius Value="2"/>
+    </type>
+    
+    <type name="Zombies_Despawn_Options">
+        <Radius_To_Despawn_Zombie_When_Horde_Is_Calm Mini="30" Maxi="50"/>
+        <Radius_To_Despawn_Zombie_When_Horde_Is_Not_Calm Mini="50" Maxi="60"/>
+        <Zombie_Despawn_Time_When_They_Are_Outside_Radius Value="3"/>
+        <Zombie_Despawn_Time_After_Zombie_Have_Been_Killed Value="30"/>
+        <Zombie_Despawn_Time_After_Master_Have_Been_Killed Value="15"/>
+    </type>
+    
+    <type name="Master_Follow_The_Horde_And_Despawn">
+        <Distance_To_Teleport_Master_When_Horde_Is_Calm Mini="10" Maxi="10"/>
+        <Distance_To_Teleport_Master_When_Horde_Is_Not_Calm Mini="40" Maxi="50"/>
+        <Master_Despawn_Time_After_Master_Have_Been_Killed Value="300"/>
+    </type>
+   
+    <type name="NewFeatures">
+    </type>
+</types>

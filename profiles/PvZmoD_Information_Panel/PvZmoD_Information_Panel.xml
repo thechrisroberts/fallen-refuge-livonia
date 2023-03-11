@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>		
+	<type name="PvZmoD_Information_Panel">
+    </type>
+	<type name="NewFeatures">
+       <Custom_Server_Link Value = " "/>
+		<PvZmoD_Information_Panel_Enable_In_Main_Menu Value = "0"/>
+		<PvZmoD_Information_Panel_Enable_In_Game_Menu Value = "1"/>
+    </type>
+</types>

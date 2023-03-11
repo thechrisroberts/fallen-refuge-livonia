@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="ussr_m200">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="M200Optic">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="Mag_ussrm200_7Rnd">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons" />
+        <usage name="ContaminatedArea" />
+        <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+    <type name="M200Suppressor">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons" />
+        <usage name="ContaminatedArea" />
+        <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+    <type name="Ammo_408cheytac">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="AmmoBox_408Cheytac_15Rnd">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="M200ZeroOptic">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="ussr_m200_black">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="M200Suppressor_black">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons" />
+        <usage name="ContaminatedArea" />
+        <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+    <type name="M200Optic_black">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="M200ZeroOptic_black">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+</types>

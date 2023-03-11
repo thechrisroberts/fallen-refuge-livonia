@@ -1,0 +1,25 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS",
+    "MinRequiredHumanity": -9999,
+    "MaxRequiredHumanity": 9999,
+    "TraderIcon": "Scrap Metal",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Magazines",
+        "Muzzles",
+        "Bayonets",
+        "Optics",
+        "Buttstocks",
+        "Handguards"
+    ],
+    "Items": {
+        "universallight": 1,
+        "tlrlight": 1
+    }
+}

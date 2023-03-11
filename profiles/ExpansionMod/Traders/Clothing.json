@@ -1,0 +1,22 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING",
+    "MinRequiredHumanity": -9999,
+    "MaxRequiredHumanity": 9999,
+    "TraderIcon": "Backpack",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Blouses_And_Suits",
+        "Coats_And_Jackets",
+        "Shirts_And_TShirts",
+        "Skirts_And_Dresses",
+        "Pants_And_Shorts",
+        "Boots_And_Shoes"
+    ],
+    "Items": {}
+}

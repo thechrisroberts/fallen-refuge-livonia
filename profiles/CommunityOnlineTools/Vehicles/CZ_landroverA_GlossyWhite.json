@@ -1,0 +1,19 @@
+{
+    "VehicleName": "CZ_landroverA_GlossyWhite",
+    "DisplayName": "",
+    "Parts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "LANDoors_Driver_GlossyWhite",
+        "LANDoors_CoDriver_GlossyWhite",
+        "LANDoors_Hood_GlossyWhite",
+        "LANCargo1Doors_GlossyWhite",
+        "CanisterGasoline",
+        "lr_wheel_glossywhite",
+        "lr_wheel_glossywhite",
+        "lr_wheel_glossywhite",
+        "lr_wheel_glossywhite",
+        "lr_wheel_glossywhite"
+    ]
+}

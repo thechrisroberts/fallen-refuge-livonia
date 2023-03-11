@@ -1,0 +1,72 @@
+Assault, .308, low/medium                   - A2M60E4
+Assault, .308, medium/high                  - A2FNFAL
+Assault, .308, medium/high                  - A2M240
+
+Assault, 5.54x54, lowish                    - A2M249
+Assault, 5.56x45, medium                    - A2G36_C
+Assault, 5.56x45, medium                    - A2M16A4
+Assault, 5.56x45, medium                    - A2M4SPR
+Assault, 5.56x45, medium, Scar              - A2MK16
+
+Assault, 7.62x39, low/medium                - A2AK74S
+Assault, 7.62x54, medium                    - A2PKM
+Assault, 7.62x54, medium/high --- check     - A2MK48
+Assault, 7.62x54, medium/high, Scar         - A2mk17
+Assault, 7.62x54, medium/high, Scar         - A2mk17_s Short barrel mk17
+
+Gold value                                  - A2AKSGOLD
+
+Pistol, .45, high                           - A2Colt1911
+Pistol, 9x19, low                           - A2M9
+Pistol, 9x19, low/medium                    - A2Glock17
+
+Rifle, .308, medium/high                    - A2LeeEnfield
+
+Shotgun, auto, high                         - A2AA12
+
+Sniper, .308, low/medium                    - A2M24_Desert
+Sniper, .308, low/medium                    - A2M24_Green
+Sniper, .308, low/medium                    - A2M40A3
+Sniper, .308, medium                        - A2WM110_black
+Sniper, .308, medium                        - A2WM110_desert
+Sniper, .308, medium/high                   - A2M14_DMR
+Sniper, .50, high                           - A2AS50
+Sniper, .50, high --- check                 - A2M107
+Sniper, 12.7x108, highish                   - A2KSVK
+Sniper, 7.62x39, low end                    - A2LRRAWM
+
+Sub, 9x19, low                              - A2bizon
+Sub, 9x19, low                              - A2MicroUzi
+Sub, 9x19, low                              - A2MicroUziSD With suppressor
+Sub, 9x19, medium                           - A2HKM5_SD
+
+Supppressor                                 - A2Suppressor
+
+Scope                                       - LRRScope
+Scope                                       - DMRScope
+
+Ammo                                        - Ammo_12x7mm
+Ammo                                        - Ammo_50Cal
+
+Mag                                         - A2AA12_Magazine
+Mag                                         - A2AS50_Magazine
+Mag                                         - bizon_magazine
+Mag                                         - A2Colt1911_Magazine
+Mag                                         - A2FNFAL_Magazine
+Mag                                         - A2Glock17_Magazine
+Mag                                         - A2HKM5_SD_Magazine
+Mag                                         - A2KSVK_Magazine
+Mag                                         - A2LRRAWM_Magazine
+Mag                                         - A2M107_Magazine
+Mag                                         - A2M14_DMRMAG
+Mag                                         - A2M240_Magazine
+Mag                                         - A2M249_Magazine
+Mag                                         - A2M40A3_Magazine
+Mag                                         - A2M4SPR_Magazine
+Mag                                         - A2M60E4_Magazine
+Mag                                         - A2M9_Magazine
+Mag                                         - A2UZI_Magazine
+Mag                                         - A2mk17_mag
+Mag                                         - A2MK48_Magazine
+Mag                                         - A2PKM_Magazine
+Mag                                         - A2WM110_mag

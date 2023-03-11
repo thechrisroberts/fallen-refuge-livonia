@@ -1,0 +1,21 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CONSUMABLES",
+    "MinRequiredHumanity": -9999,
+    "MaxRequiredHumanity": 9999,
+    "TraderIcon": "Can Of Beans Big",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Drinks",
+        "Food",
+        "Fruit_And_Vegetables",
+        "Meat",
+        "Fish"
+    ],
+    "Items": {}
+}

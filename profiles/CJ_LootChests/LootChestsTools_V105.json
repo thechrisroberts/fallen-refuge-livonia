@@ -1,0 +1,34 @@
+{
+    "LCTools": [
+        {
+            "name": "SledgeHammer",
+            "time": 1,
+            "dmg": 33,
+            "desc": ""
+        },
+        {
+            "name": "Crowbar",
+            "time": 15,
+            "dmg": 25,
+            "desc": ""
+        },
+        {
+            "name": "Hammer",
+            "time": 30,
+            "dmg": 25,
+            "desc": ""
+        },
+        {
+            "name": "Hatchet",
+            "time": 30,
+            "dmg": 25,
+            "desc": ""
+        },
+        {
+            "name": "Lockpick",
+            "time": 30,
+            "dmg": 25,
+            "desc": ""
+        }
+    ]
+}

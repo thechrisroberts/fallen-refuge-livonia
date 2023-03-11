@@ -1,0 +1,19 @@
+{
+    "VehicleName": "CZ_landroverA",
+    "DisplayName": "",
+    "Parts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "LANDoors_Driver",
+        "LANDoors_CoDriver",
+        "LANDoors_Hood",
+        "LANCargo1Doors",
+        "CanisterGasoline",
+        "lr_wheel",
+        "lr_wheel",
+        "lr_wheel",
+        "lr_wheel",
+        "lr_wheel"
+    ]
+}

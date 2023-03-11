@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes"?>
+<types>		
+	<type Zone_To_Use = "Random">
+        <Zone_Data		Name = "Topolin"				Coord_TopLeft_Corner = "900/8190"		Coord_LowRight_Corner = "2240/6790"/>
+        <Zone_Data		Name = "Gradin_Tarnow"			Coord_TopLeft_Corner = "9050/11360"		Coord_LowRight_Corner = "11160/10310"/>
+        <Zone_Data		Name = "Nadbor"					Coord_TopLeft_Corner = "5420/4390"		Coord_LowRight_Corner = "6520/3710"/>
+        <Zone_Data		Name = "Gieraltow"				Coord_TopLeft_Corner = "10770/4840"		Coord_LowRight_Corner = "11720/4130"/>
+        <Zone_Data		Name = "Lukow_Airfield"			Coord_TopLeft_Corner = "2980/12260"		Coord_LowRight_Corner = "4610/10060"/>
+        <Zone_Data		Name = "Bielawa"				Coord_TopLeft_Corner = "1120/9960"		Coord_LowRight_Corner = "2180/9350"/>
+        <Zone_Data		Name = "SouthIndus"				Coord_TopLeft_Corner = "7160/3030"		Coord_LowRight_Corner = "7760/2430"/>
+        <Zone_Data		Name = "Dolnik"					Coord_TopLeft_Corner = "11080/840"		Coord_LowRight_Corner = "11720/260"/>
+        <Zone_Data		Name = "Radunin_Lemork_Roztoka"	Coord_TopLeft_Corner = "7180/6980"		Coord_LowRight_Corner = "9160/5130"/>
+        <Zone_Data		Name = "Sitnick_Borek"			Coord_TopLeft_Corner = "9590/9880"		Coord_LowRight_Corner = "11810/8270"/>
+        <Zone_Data		Name = "Sobotka_Brena_Gliniska"	Coord_TopLeft_Corner = "4850/11530"		Coord_LowRight_Corner = "6820/9495"/>
+	</type>
+</types>

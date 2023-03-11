@@ -1,0 +1,22 @@
+{
+    "VehicleName": "gglaw_f150Psycho_black",
+    "DisplayName": "",
+    "Parts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "f150PsychoWheel_offroad",
+        "f150PsychoWheel_offroad",
+        "f150PsychoWheel_offroad",
+        "f150PsychoWheel_offroad",
+        "f150PsychoWheel_offroad",
+        "f150Psycho_driver_black",
+        "f150Psycho_codriver_black",
+        "f150Psycho_cargo1_black",
+        "f150Psycho_cargo2_black",
+        "f150Psycho_hood_black",
+        "f150Psycho_trunk_black"
+    ]
+}

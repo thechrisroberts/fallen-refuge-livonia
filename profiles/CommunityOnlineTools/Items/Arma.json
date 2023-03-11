@@ -1,0 +1,286 @@
+{
+    "Name": "Arma",
+    "ContainerClassName": "TalonContainer",
+    "Items": [
+        {
+            "ItemName": "A2Colt1911",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2Colt1911_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2Glock17",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2Glock17_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2bizon",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "bizon_magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2HKM5_SD",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2HKM5_SD_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2MicroUzi",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2MicroUziSD",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2UZI_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2LeeEnfield",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2AA12",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2AA12_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M4SPR",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M4SPR_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M16A4",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2G36_C",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2AK74S",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2FNFAL",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2FNFAL_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2mk17",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2mk17_s",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2mk17_mag",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M24_Desert",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M24_Green",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M14_DMR",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "DMRScope",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M14_DMRMAG",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2WM110_desert",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2WM110_black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2WM110_mag",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M40A3",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M40A3_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2AS50",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2AS50_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M107",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M107_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Ammo_50Cal",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M249",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M249_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M60E4",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M60E4_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M240",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M240_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2MK48",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2MK48_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2PKM",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2PKM_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M32",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "M32_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2AKSGOLD",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2Suppressor",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2KSVK",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2KSVK_Magazine",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Ammo_12x7mm",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        }
+    ]
+}

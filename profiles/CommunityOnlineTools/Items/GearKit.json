@@ -1,0 +1,161 @@
+{
+    "Name": "Gear Kit",
+    "ContainerClassName": "TalonContainer",
+    "Items": [
+        {
+            "ItemName": "MVS_Combat_Vest_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TalonRucksack_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Helmet_02_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TalonCombatPants_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TalonCombatShirt_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Canteen_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1000
+        },
+        {
+            "ItemName": "MVS_Sheath_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Holster_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Belt_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Medical_Pouch_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Utility_Pouch_Multicam_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Admin_Pouch_Multicam_Black",
+            "NumberOfStacks": 2,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Magazine_Pouch_Multicam_Black",
+            "NumberOfStacks": 3,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M240",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M240_Magazine",
+            "NumberOfStacks": 2,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Battery9V",
+            "NumberOfStacks": 4,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "expansionhamroptic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "ExpansionDeltapointOptic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2Suppressor",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TacticalGoggles",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TacticalGloves_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "BalaclavaMask_Blackskull",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MilitaryBoots_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "ChernarusMap",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Compass",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "NVGoggles",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "CombatKnife",
+            "NumberOfStacks": 2,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "FNX45",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Mag_FNX45_15Rnd",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "fnp45_mrdsoptic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "PistolSuppressor",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        }
+    ]
+}

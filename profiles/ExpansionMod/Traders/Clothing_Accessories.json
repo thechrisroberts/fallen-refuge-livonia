@@ -1,0 +1,29 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES",
+    "MinRequiredHumanity": -9999,
+    "MaxRequiredHumanity": 9999,
+    "TraderIcon": "Backpack",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Helmets",
+        "Caps",
+        "Hats_And_Hoods",
+        "Armbands",
+        "Backpacks",
+        "Eyewear",
+        "Gloves",
+        "Bandanas",
+        "Masks",
+        "Vests",
+        "Holsters_And_Pouches",
+        "Ghillies",
+        "Belts"
+    ],
+    "Items": {}
+}
