@@ -1,0 +1,17 @@
+Mass Weapon Items
+
+In Store
+
+MassHolo
+MassHolo2
+MassPKA
+MassScope
+MassMuzzle338
+MassMuzzle556
+MassMuzzle762
+MassMuzzlePistol
+MassStockPouch
+MassStockSupport
+
+Not for store
+

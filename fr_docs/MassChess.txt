@@ -1,0 +1,20 @@
+Mass Chess
+
+In store
+
+MassblackBishop
+MassblackKing
+MassblackKnight
+MassblackPawn
+MassblackQueen
+MassblackRook
+MassChessboard
+MassWhiteBishop
+MassWhiteKing
+MassWhiteKnight
+MassWhitePawn
+MassWhiteQueen
+MassWhiteRook
+
+Not for store
+
